@@ -1,1 +1,1 @@
-# notification
+# argocd-example-apps
