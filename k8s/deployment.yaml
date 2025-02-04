@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: algn48/node-todo:2
+        image: algn48/node-todo:3
         workingDir: /app
         ports:
         - containerPort: 3000
